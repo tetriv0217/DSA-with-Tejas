@@ -6,6 +6,7 @@
         "*.css": "tailwindcss",
         "*.java": "java",
         "*.md": "markdown",
-        "ostream": "cpp"
+        "ostream": "cpp",
+        "functional": "cpp"
     }
 }

@@ -1,0 +1,25 @@
+// Write a C++ program with only the following structure:
+// 1. A function called <function_name>(parameters) that performs <brief_task_description>
+// 2. A main() function that:
+//    - Reads input from the user (e.g. array size and elements)
+//    - Calls the function
+//    - Prints the output
+
+// Example structure:
+//
+// int function_name(vector<int>& arr) {
+//     // Write your code here
+// }
+//
+// int main() {
+//     int n;
+//     cin >> n;
+//     vector<int> arr(n);
+//     for(int i = 0; i < n; i++) cin >> arr[i];
+//     cout << function_name(arr) << endl;
+//     return 0;
+// }
+
+
+use only this header file #include<bits/stdc++.h>
+In function I will write the code myself so dont auto complete that
